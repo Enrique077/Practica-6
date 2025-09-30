@@ -1,3 +1,7 @@
+/*Enrique Mena Hernández
+Cuarto ejercicio
+Pracctica 6*/
+
 #include <stdio.h>
 int main() 
 {
