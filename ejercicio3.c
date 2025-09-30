@@ -1,5 +1,5 @@
 /*Enrique Mena Hernández
-Primer ejercicio
+Terer ejercicio
 Pracctica 6*/
 
 #include <stdio.h>
